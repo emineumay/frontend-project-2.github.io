@@ -1,0 +1,281 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #212121;
+    margin-inline: auto;
+}
+
+/* header {
+    padding: 28px;
+} */
+
+.container {
+    margin-inline: auto;
+    max-width: 1440px;
+}
+
+.hero {
+    background-color: #FFC9BA;
+    max-width: 1440px;
+}
+
+.logo {
+    padding: 24px 0 24px 165px;
+    display: flex;
+    flex-direction: row;
+    margin: 24px 0;
+}
+
+.search {
+    margin-inline: 250px;
+}
+
+.menu {
+    display: flex;
+    gap: 32px;
+    margin-left: auto;
+    margin-right: 165px;
+}
+
+.sofa {
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.sofa_text {
+    max-width: 373px;
+    margin: 103px 24px 0 165px;
+    font-size: 16px;
+}
+
+.sofa h1 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.sofa a {
+    color: #212121;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 32px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.sofa_image {
+    margin: 144px 151px 136px 0;
+}
+
+.social-container {
+    margin-inline: auto;
+    display: flex;
+    gap: 95px;
+    max-width: 1440px;
+}
+
+.text {
+    font-size: 14px;
+    color: #807E7E;
+    margin-inline: auto;
+    margin: 56px 0 24px 0;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.section2 {
+    margin-inline: auto;
+    padding: 64px 165px 80px 235px;
+    display: flex;
+    flex-direction: row;
+}
+
+.section2_text {
+    max-width: 557px;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    align-content: flex-end;
+
+}
+
+.green_sofa {
+    background-color: #E6F0FF;
+    max-width: 637px;
+    margin-right: 24px;
+
+}
+
+.lamp {
+    background-color: #FAFAFB;
+    max-width: 450px;
+}
+
+.baslik {
+    max-width: 1440px;
+    margin-left: 235px;
+}
+
+.section3 {
+    padding: 64px 165px 80px 235px;
+    display: flex;
+    flex-direction: row;
+    margin-inline: auto;
+
+}
+
+.products {
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+}
+
+.section3_text {
+    font-size: 16px;
+    padding-left: 5px;
+
+    p {
+        margin-block: 5px;
+    }
+}
+
+.divider {
+    margin: 16px 0 24px 0;
+}
+
+.section3 span {
+    font-size: 12px;
+    color: #807E7E;
+    margin: 12px 0 0 4px;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+}
+
+.yellowsofa {
+    margin: 80px 235px;
+    background-color: #FAFAFB;
+    display: flex;
+    flex-direction: row;
+}
+
+.yellowsofa_text {
+    max-width: 287px;
+    margin: 128px 64px 211px 64px;
+}
+
+.section4 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    max-width: 1440px;
+}
+
+.latest {
+    max-width: 1440px;
+    padding: 80px 0 24px 165px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* align-items: center; */
+
+}
+
+.article {
+    font-size: 20px;
+    margin-bottom: 12px;
+    margin-right: 886px;
+}
+
+.article span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.view {
+    color: #212121;
+    font-size: 14px;
+
+}
+
+.fashion {
+    max-width: 1440px;
+    margin: 24px 0 80px 165px;
+    display: flex;
+    gap: 24px;
+    flex-direction: row;
+}
+
+.option {
+    border-radius: 6px;
+}
+
+.option p {
+    color: #807E7E;
+    font-size: 12px;
+    margin: 16px 0 4px 0;
+}
+
+.footer {
+    margin-inline: auto;
+    max-width: 1440px;
+}
+
+.sonkisim {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 72px;
+}
+
+.footer_logo {
+    display: flex;
+    gap: 24px;
+    flex-direction: column;
+    max-width: 496px;
+    margin: 72px 0 0 165px;
+    font-size: 14px;
+    color: #52647C;
+}
+
+.columns {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    margin:72px 0 0 118px;
+}
+
+.columns_list ul {
+    font-size: 14px;
+    list-style-type: none;
+}
+
+.columns_list {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.bottom{
+    padding: 24px 165px;
+    display: flex;
+    gap: 750px;
+    flex-direction: row;
+}
+.socialmedia{
+    display: flex;
+    gap: 40px;
+}
+.date{
+    font-size: 14px;
+    color: #807E7E;
+}
