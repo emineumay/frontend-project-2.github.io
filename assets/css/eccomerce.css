@@ -279,3 +279,11 @@ body {
     font-size: 14px;
     color: #807E7E;
 }
+
+.market{
+    
+    background-color:#52647C;
+    margin: 25px;
+    color:white;
+    padding: 10px;
+}
